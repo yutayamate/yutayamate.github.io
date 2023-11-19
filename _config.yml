@@ -291,13 +291,13 @@ links:
     Username: 145610
     Icon-Class: fas fa-square-h
     Color: '#d60017'
-    Text_Color: '#ffffff'
+    Text_Color: '#000000'
 
   - Name: Web
     URL: https://www.yutayamate.com
     Icon-Class: fas fa-link
     Color: '#9fef00'
-    Text_Color: '#000000'
+    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
