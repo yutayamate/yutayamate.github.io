@@ -289,7 +289,7 @@ links:
   - Name: Hack The Box
     URL: https://app.hackthebox.com/profile
     Username: 145610
-    Icon-Class: fas fa-square-h
+    Icon-Class: fas fa-circle-h
     Color: '#d60017'
     Text_Color: '#000000'
 
