@@ -29,7 +29,13 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
+  #   # TWITTER
+  # - Name: Twitter
+  #   URL: https://twitter.com
+  #   Username: harsh98trivedi
+  #   Color: '#1DA1F2'
+  #   Icon-Class: fab fa-twitter
+
   - Name: X
     URL: https://x.com
     Username: yutayamate
