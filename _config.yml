@@ -267,17 +267,24 @@ links:
   #   Text_Color: '#000000'
 
   #   # CUSTOM LINK
-  # - Name: Blog
-  #   URL: https://harsh98trivedi.github.io/blog
-  #   Icon-Class: fas fa-link
-  #   Color: '#ffb142'
-  #   Text_Color: '#ffffff'
+  - Name: Web
+    URL: https://www.yutayamate.com
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
 
   # - Name: Links
   #   URL: https://github.com/harsh98trivedi/links
   #   Icon-Class: fas fa-link
   #   Color: '#d94869'
   #   Text_Color: '#ffffff'
+
+  - Name: Apple Music
+    URL: https://music.apple.com/profile
+    Username: yutayamate
+    Icon-Class: fas fa-music
+    Color: '#fa2d48'
+    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
