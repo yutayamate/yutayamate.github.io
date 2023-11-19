@@ -301,7 +301,7 @@ links:
     Text_Color: '#000000'
 
   - Name: Web
-    URL: https://www.yutayamate.com
+    URL: https://yutayamate.com
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
