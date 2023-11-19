@@ -290,13 +290,13 @@ links:
     URL: https://app.hackthebox.com/profile
     Username: 145610
     Icon-Class: fas fa-circle-h
-    Color: '#d60017'
+    Color: '#9fef00'
     Text_Color: '#000000'
 
   - Name: Web
     URL: https://www.yutayamate.com
     Icon-Class: fas fa-link
-    Color: '#9fef00'
+    Color: '#ffb142'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
