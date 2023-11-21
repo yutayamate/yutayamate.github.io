@@ -290,7 +290,7 @@ links:
     URL: https://music.apple.com/profile
     Username: yutayamate
     Icon-Class: fas fa-music
-    Color: '#d60017'
+    Color: '#fa243c'
     Text_Color: '#ffffff'
 
   - Name: Hack The Box
