@@ -302,9 +302,9 @@ links:
 
   - Name: Accredible
     URL: https://www.credential.net/profile/yutayamate
-    Icon-Class: fas fa-file-certificate
-    Color: '#ffffff'
-    Text_Color: '#000000'
+    Icon-Class: fas fa-certificate
+    Color: '#454798'
+    Text_Color: '#ffffff'
 
   - Name: Web
     URL: https://yutayamate.com
