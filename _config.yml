@@ -30,12 +30,18 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
+  #   # TWITTER
+  # - Name: Twitter
+  #   URL: https://x.com
+  #   Username: harsh98trivedi
+  #   Color: '#1DA1F2'
+  #   Icon-Class: fab fa-twitter
+
+  - Name: X
     URL: https://x.com
     Username: yutayamate
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Color: '#000000'
+    Icon-Class: fab fa-x-twitter
 
      # THREADS.NET
   - Name: Threads
