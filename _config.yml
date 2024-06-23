@@ -15,7 +15,7 @@ Cover_Image: https://picsum.photos/id/52/248/248?nocache=
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
+
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
@@ -30,22 +30,16 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-  #   # TWITTER
-  # - Name: Twitter
-  #   URL: https://twitter.com
-  #   Username: harsh98trivedi
-  #   Color: '#1DA1F2'
-  #   Icon-Class: fab fa-twitter
-
-  - Name: X
+    # TWITTER
+  - Name: Twitter
     URL: https://x.com
     Username: yutayamate
-    Color: '#000000'
-    Icon-Class: fab fa-x-twitter
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
-    URL: https://threads.net/
+    URL: https://threads.net
     Username: yuta.yamate
     Color: '#000000'
     Icon-Class: fa-brands fa-threads
@@ -57,7 +51,7 @@ links:
   #   Username: '@harsh98trivedi'
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
-    
+
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
@@ -195,7 +189,7 @@ links:
   #   # DRIBBBLE
   # - Name: Dribbble
   #   URL: https://dribbble.com
-  #   Username: 
+  #   Username:
   #   Color: '#ea4c89'
   #   Icon-Class: fab fa-dribbble
 
@@ -238,7 +232,7 @@ links:
   #    # TIKTOK
   # - Name: TikTok
   #   URL: https://www.tiktok.com
-  #   Username: 
+  #   Username:
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
@@ -261,7 +255,7 @@ links:
   #   # TUMBLR
   # - Name: Tumblr
   #   URL: https://www.tumblr.com
-  #   Username: 
+  #   Username:
   #   Color: '#35465c'
   #   Icon-Class: fab fa-tumblr
 
