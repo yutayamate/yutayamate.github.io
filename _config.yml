@@ -300,8 +300,16 @@ links:
     Color: '#9fef00'
     Text_Color: '#000000'
 
+  - Name: ORCID
+    URL: https://orcid.org
+    Username: '0000-0001-9994-4340'
+    Icon-Class: fas fa-orcid
+    Color: '#a6ce39'
+    Text_Color: '#ffffff'
+
   - Name: Accredible
-    URL: https://www.credential.net/profile/yutayamate
+    URL: https://www.credential.net/profile
+    Username: yutayamate
     Icon-Class: fas fa-certificate
     Color: '#454798'
     Text_Color: '#ffffff'
