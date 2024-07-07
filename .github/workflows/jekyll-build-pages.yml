@@ -1,5 +1,5 @@
 # See this page for the latest information
-# https://github.com/actions/jekyll-build-pages?tab=readme-ov-file
+# https://github.com/actions/jekyll-build-pages
 
 name: Build Jekyll site
 on:
