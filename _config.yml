@@ -9,7 +9,7 @@ Image_URL: https://github.com/yutayamate.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # Cover_Image: https://picsum.photos/248?nocache=
-Cover_Image: https://picsum.photos/id/215/248/248?nocache=
+Cover_Image: https://picsum.photos/id/182/248/248?nocache=
 
 # SOCIAL MEDIA
 links:
@@ -30,18 +30,12 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-  #   # TWITTER
-  # - Name: Twitter
-  #   URL: https://x.com
-  #   Username: harsh98trivedi
-  #   Color: '#1DA1F2'
-  #   Icon-Class: fab fa-twitter
-
-  - Name: X
+    # TWITTER
+  - Name: Twitter
     URL: https://x.com
     Username: yutayamate
-    Color: '#000000'
-    Icon-Class: fab fa-x-twitter
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
@@ -286,13 +280,6 @@ links:
   #   Color: '#d94869'
   #   Text_Color: '#ffffff'
 
-  - Name: Apple Music
-    URL: https://music.apple.com/profile
-    Username: yutayamate
-    Icon-Class: fas fa-music
-    Color: '#fa243c'
-    Text_Color: '#ffffff'
-
   - Name: Hack The Box
     URL: https://app.hackthebox.com/profile
     Username: 145610
@@ -312,12 +299,6 @@ links:
     Username: yutayamate
     Icon-Class: fas fa-certificate
     Color: '#454798'
-    Text_Color: '#ffffff'
-
-  - Name: Web
-    URL: https://yutayamate.com
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
