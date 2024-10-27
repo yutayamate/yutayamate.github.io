@@ -37,13 +37,13 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-     # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net
-    Username: yuta.yamate
-    Color: '#000000'
-    Icon-Class: fa-brands fa-threads
-    Text_Color: '#ffffff'
+  #    # THREADS.NET
+  # - Name: Threads
+  #   URL: https://threads.net
+  #   Username: harsh98trivedi
+  #   Color: '#000000'
+  #   Icon-Class: fa-brands fa-threads
+  #   Text_Color: '#ffffff'
 
   #   # CLUBHOUSE
   # - Name: Clubhouse
