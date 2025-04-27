@@ -5,7 +5,7 @@ name: 'Yuta Yamate'
 tagline: Product security engineer / manager based in Tokyo, Japan | OSCP
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://avatars.githubusercontent.com/u/11874627
+Image_URL: https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # Cover_Image: https://picsum.photos/248?nocache=
@@ -34,8 +34,8 @@ links:
   - Name: Twitter
     URL: https://x.com
     Username: yutayamate
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Color: '#000000'
+    Icon-Class: fab fa-x-twitter
 
   #    # THREADS.NET
   # - Name: Threads
@@ -298,7 +298,7 @@ links:
   - Name: ORCID
     URL: https://orcid.org
     Username: '0000-0001-9994-4340'
-    Icon-Class: fas fa-orcid
+    Icon-Class: fab fa-orcid
     Color: '#a6ce39'
     Text_Color: '#ffffff'
 
