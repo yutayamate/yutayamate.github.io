@@ -31,7 +31,7 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
+  - Name: X
     URL: https://x.com
     Username: yutayamate
     Color: '#000000'
