@@ -187,12 +187,12 @@ links:
   #   Color: '#E60023'
   #   Icon-Class: fab fa-pinterest
 
-  #   # BEHANCE
-  # - Name: Behance
-  #   URL: https://www.behance.net
-  #   Username: harsh98trivedi
-  #   Color: '#1769ff'
-  #   Icon-Class: fab fa-behance
+    # BEHANCE
+  - Name: Behance
+    URL: https://www.behance.net
+    Username: yutayamate
+    Color: '#1769ff'
+    Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
