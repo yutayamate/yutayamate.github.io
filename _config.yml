@@ -310,7 +310,7 @@ links:
     Text_Color: '#ffffff'
 
   - Name: API?
-    URL: https://api.credential.net/docs
+    URL: https://api.yutayamate.com/docs
     Icon-Class: fas fa-gear
     Color: '#7bb01c'
     Text_Color: '#ffffff'
