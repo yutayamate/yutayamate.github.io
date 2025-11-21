@@ -309,6 +309,13 @@ links:
     Color: '#454798'
     Text_Color: '#ffffff'
 
+  - Name: Credly
+    URL: https://www.credly.com/users
+    Username: yuta-yamate
+    Icon-Class: fas fa-certificate
+    Color: '#005850'
+    Text_Color: '#ffffff'
+
   - Name: API
     URL: https://api.yutayamate.com/docs
     Icon-Class: fas fa-gear
