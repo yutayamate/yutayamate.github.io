@@ -288,6 +288,13 @@ links:
   #   Color: '#d94869'
   #   Text_Color: '#ffffff'
 
+  - Name: Apple Music
+    URL: https://music.apple.com/profile/
+    Username: yutayamate
+    Icon-Class: fas fa-music
+    Color: '#ff0436'
+    Text_Color: '#ffffff'
+
   - Name: Hack The Box
     URL: https://app.hackthebox.com/profile
     Username: 145610
