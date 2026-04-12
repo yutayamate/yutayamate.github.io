@@ -59,12 +59,12 @@ links:
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
 
-  #   # LINKEDIN
-  # - Name: LinkedIn
-  #   URL: https://www.linkedin.com/in
-  #   Username: yuta-yamate
-  #   Color: '#2867B2'
-  #   Icon-Class: fab fa-linkedin-in
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: yuta-yamate
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
 
   #   # YOUTUBE
   # - Name: YouTube
