@@ -1,11 +1,18 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1 user-scalable=no, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{ site.tagline }}">
-<meta content='#000000' name='theme-color'/>
-<title>{{site.name}} | Links</title>
-<link rel="shortcut icon" href="https://images.weserv.nl/?url={{site.Image_URL}}&h=300&w=300&fit=cover&mask=circle&l=9&output=webp&q=63" onError="this.onerror=null;this.src='{% for link in site.links %}{% if link.Username and link.Name == 'GitHub' %}{{link.URL}}/{{link.Username}}.png{% endif %}{% endfor %}';" type="image/x-icon">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url}}">
+<meta name="theme-color" content="#0a0d12">
+<meta property="og:title" content="{{ site.name }} — {{ site.role }}">
+<meta property="og:description" content="{{ site.summary }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.yutayamate.com/">
+<meta property="og:image" content="{{ site.Image_URL }}">
+<title>{{ site.name }} — {{ site.role }}</title>
+<link rel="shortcut icon"
+    href="https://images.weserv.nl/?url={{ site.Image_URL }}&h=300&w=300&fit=cover&mask=circle&output=webp&q=75"
+    onerror="this.onerror=null;this.href='{{ site.Image_URL }}';" type="image/x-icon">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <script src="https://kit.fontawesome.com/609f7f6148.js" crossorigin="anonymous"></script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1X9YWWF0KQ"></script>
