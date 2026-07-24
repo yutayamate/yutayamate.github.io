@@ -4,6 +4,34 @@ name: 'Yuta Yamate'
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: AppSec, OffSec, and DevSecOps | OSCP, GCSA
 
+# PORTFOLIO INTRODUCTION
+role: Product Security Engineer / Manager
+location: Tokyo, Japan
+hero_headline: Making software safer by design.
+summary: I connect offensive security insight with practical product engineering to help teams build and ship safer software.
+
+# CORE CAPABILITIES
+focus_areas:
+  - Number: '01'
+    Label: FOCUS
+    Title: Product Security
+    Description: Build security into product strategy, architecture, and delivery.
+  - Number: '02'
+    Label: PRACTICE
+    Title: Offensive Security
+    Description: Use an attacker's perspective to find and prioritize meaningful risk.
+  - Number: '03'
+    Label: SYSTEMS
+    Title: DevSecOps
+    Description: Create security practices that scale with engineering teams.
+
+# PROFESSIONAL CREDENTIALS
+credentials:
+  - Name: OSCP
+    Description: Offensive Security Certified Professional
+  - Name: GCSA
+    Description: GIAC Cloud Security Automation
+
 # YOUR/BRAND IMAGE URL
 Image_URL: https://avatars.githubusercontent.com/u/11874627
 
@@ -65,6 +93,7 @@ links:
     Username: yuta-yamate
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
+    Featured: true
 
   #   # YOUTUBE
   # - Name: YouTube
@@ -75,10 +104,11 @@ links:
 
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
+    URL: https://github.com
     Username: yutayamate
     Color: '#6e5494'
     Icon-Class: fab fa-github
+    Featured: true
 
   #   # WordPress
   # - Name: WordPress.org
@@ -289,7 +319,7 @@ links:
   #   Text_Color: '#ffffff'
 
   - Name: Apple Music
-    URL: https://music.apple.com/profile/
+    URL: https://music.apple.com/profile
     Username: yutayamate
     Icon-Class: fas fa-music
     Color: '#fa243c'
@@ -301,6 +331,7 @@ links:
     Icon-Class: fas fa-cube
     Color: '#9fef00'
     Text_Color: '#000000'
+    Featured: true
 
   - Name: ORCID
     URL: https://orcid.org
@@ -315,6 +346,7 @@ links:
     Icon-Class: fas fa-certificate
     Color: '#454798'
     Text_Color: '#ffffff'
+    Featured: true
 
   - Name: Credly
     URL: https://www.credly.com/users
