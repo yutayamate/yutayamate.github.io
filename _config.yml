@@ -326,8 +326,8 @@ links:
     Text_Color: '#ffffff'
 
   - Name: Hack The Box
-    URL: https://app.hackthebox.com/profile
-    Username: 145610
+    URL: https://profile.hackthebox.com/profile
+    Username: 019df0ba-4646-7183-9bd1-42dc72f8d50b
     Icon-Class: fas fa-cube
     Color: '#9fef00'
     Text_Color: '#000000'
