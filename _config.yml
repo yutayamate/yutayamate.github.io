@@ -33,7 +33,8 @@ credentials:
     Description: GIAC Cloud Security Automation
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://avatars.githubusercontent.com/u/11874627
+# Image_URL: https://avatars.githubusercontent.com/u/11874627
+Image_URL: https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # Cover_Image: https://picsum.photos/248?nocache=
