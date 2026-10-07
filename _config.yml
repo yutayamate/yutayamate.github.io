@@ -5,7 +5,7 @@ name: 'Yuta Yamate'
 tagline: AppSec, OffSec, and DevSecOps | OSCP, GCSA
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://avatars.githubusercontent.com/u/11874627
+Image_URL: https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 # Cover_Image: https://picsum.photos/248?nocache=
@@ -296,8 +296,8 @@ links:
     Text_Color: '#ffffff'
 
   - Name: Hack The Box
-    URL: https://app.hackthebox.com/profile
-    Username: 145610
+    URL: https://profile.hackthebox.com/profile
+    Username: 019df0ba-4646-7183-9bd1-42dc72f8d50b
     Icon-Class: fas fa-cube
     Color: '#9fef00'
     Text_Color: '#000000'
