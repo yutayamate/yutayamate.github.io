@@ -371,13 +371,6 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
-    # DISCORD
-  - Name: Discord
-    URL: https://discordapp.com/users
-    Username: 738723550264819742
-    Color: '#5865F2'
-    Icon-Class: fa-brands fa-discord
-
   - Name: Apple Music
     URL: https://music.apple.com/profile/
     Username: yutayamate
